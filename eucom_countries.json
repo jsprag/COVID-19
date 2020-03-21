@@ -1,6 +1,5 @@
   {
     "Italy": "ITA",
-    "Spain": "ESP",
     "Germany": "DEU",
     "France": "FRA",
     "Switzerland": "CHE",
@@ -21,7 +20,6 @@
     "Iceland": "ISL",
     "Poland": "POL",
     "Slovenia": "SVN",
-    "Romania": "ROU",
     "Estonia": "EST",
     "Russia": "RUS",
     "San Marino": "SMR",
@@ -48,5 +46,8 @@
     "Holy See": "VAT",
     "Belarus": "BLR",
     "Monaco": "MCO",
-    "Kosovo": "XKS"
+    "Kosovo": "XKS",
+    "Romania": "ROU",
+    "Spain": "ESP",
+    "Turkey": "TUR"
   }
